@@ -1,0 +1,6 @@
+<svg width="231" height="48" viewBox="0 0 231 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="12" fill="#3C9A4D"/>
+  <path d="M36 12c0 10.8-7.2 18-18 18H13.5c0-10.8 7.2-18 18-18H36z" fill="#FFFFFF"/>
+  <path d="M13.5 34.5c3.3-6.6 7.8-11.1 15-15" stroke="#2E7D32" stroke-width="2.4" stroke-linecap="round"/>
+  <text x="62" y="32" fill="#FFFFFF" font-family="Outfit, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="0.8">GREENFLOW</text>
+</svg>
